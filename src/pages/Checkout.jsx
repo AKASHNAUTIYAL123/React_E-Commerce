@@ -170,7 +170,7 @@ const Checkout = () => {
                         <br />
                         <select className="form-select" id="state" required>
                           <option value="">Choose...</option>
-                          <option>Punjab</option>
+                          <option>UTTARAKHAND</option>
                         </select>
                         <div className="invalid-feedback">
                           Please provide a valid state.
